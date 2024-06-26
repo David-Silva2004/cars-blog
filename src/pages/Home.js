@@ -1,8 +1,13 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import postsData from '../posts.json'; 
 
 function Home() {
+
+    useEffect(() => {
+        document.title = "Home"; 
+      }, []);
+
   return (
     <div>
       <h2>Lista de Posts</h2>

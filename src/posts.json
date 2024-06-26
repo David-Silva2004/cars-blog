@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "nome": "Toyota Corolla",
+      "imagem": "/assets/images/toyota-corolla.jpg",
+      "descrição": "Um sedan popular conhecido pela confiabilidade e eficiência.",
+      "ano": 2022,
+      "modelo": "Corolla XLE",
+      "quilometragem": "10.000 km",
+      "motor": "2.0L 4 cilindros",
+      "transmissão": "Automático",
+      "tipoCombustível": "Gasolina",
+      "cor": ["prata", "Preto"],
+      "preço": "R$ 100.000"
+    },
+    {
+      "id": 2,
+      "nome": "Ford Mustang",
+      "imagem": "/assets/images/ford-mustang.jpg",
+      "descrição": "Um carro esportivo icônico com um motor potente e design marcante.",
+      "ano": 2023,
+      "modelo": "Mustang GT",
+      "quilometragem": "5.000 km",
+      "motor": "5.0L V8",
+      "transmissão": "Manual",
+      "tipoCombustível": "Gasolina",
+      "cor": ["prata", "Preto", "Vermelho"],
+      "preço": "R$ 200.000"
+    }
+  ]
+  
+  

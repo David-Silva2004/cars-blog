@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Home from './pages/Home'; // Importe corretamente o componente Home
 import PostDetail from './pages/PostDetails'; // Importe corretamente o componente PostDetail
 import NotFound from './pages/NotFound'; // Importe corretamente o componente NotFound
+import './assets/css/app.css'
 
 function App() {
   return (

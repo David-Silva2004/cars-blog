@@ -1,0 +1,63 @@
+/* home.css */
+.post-detail-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+  }
+  
+  .voltar {
+    background-color: #555;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 16px;
+    margin-left: 5%;
+  }
+  
+  .voltar:hover {
+    background-color: #777;
+  }
+  
+  .car-image {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  
+  .post-content {
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .post-content p {
+    line-height: 1.6;
+  }
+  
+  .post-content ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .post-content ul li {
+    margin-bottom: 10px;
+  }
+  
+  .post-content ul li strong {
+    font-weight: bold;
+    margin-right: 5px;
+  }
+  
+  
